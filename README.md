@@ -6,6 +6,8 @@ Convertor de divisas en java
 Hecho con la api ExchangeRate
 
 ## Ejecucion
-Clonar el repositorio y ejecutarlo en java
+-Clonar repositorio
+-Importar el proyecto java en cualquier ide de java
+-Ejecutar el proyecto
 
 
