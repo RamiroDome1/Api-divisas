@@ -23,15 +23,8 @@ Un juego web interactivo y divertido donde tendrás que adivinar un número secr
 
 ## 📦 Instalación
 
-# Clonar repositorio
-git clone https://github.com/RamiroDome1/conversor-divisas-java.git
-cd conversor-divisas-java
-
-# Compilar con Maven
-mvn clean compile
-
-# Ejecutar
-mvn exec:java -Dexec.mainClass="com.ramiro.ConversorDivisas"
+1. Clonar el repositorio:
+2. Ejecutar el index.html
 
 ## 👨‍💻 Autor
 
