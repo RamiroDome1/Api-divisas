@@ -1,13 +1,47 @@
-# Api-divisas
+# 🔢 Adivina el Número Secreto
 
+Un juego web interactivo y divertido donde tendrás que adivinar un número secreto en la menor cantidad de intentos posibles. Desarrollado con JavaScript, HTML y CSS.
 
-## Resumen
-Convertor de divisas en java
-Hecho con la api ExchangeRate
+## ✨ Características
 
-## Ejecucion
-- Clonar repositorio
-- Importar el proyecto java en cualquier ide de java
-- Ejecutar el proyecto
+- Interfaz de usuario moderna
+- Generación aleatoria de números secretos
+- Contador de intentos
 
+## 🛠️ Tecnologías Utilizadas
 
+- **HTML5** 
+- **CSS3**
+- **JavaScript** 
+
+## 🎮 Cómo Jugar
+
+1. El sistema genera un número secreto aleatorio entre 1 y 100
+2. Ingresa tu número en el campo de texto
+3. Presiona "Adivinar" o la tecla Enter
+4. ¡Adivina en la menor cantidad de intentos posibles!
+
+## 📦 Instalación
+
+# Clonar repositorio
+git clone https://github.com/RamiroDome1/conversor-divisas-java.git
+cd conversor-divisas-java
+
+# Compilar con Maven
+mvn clean compile
+
+# Ejecutar
+mvn exec:java -Dexec.mainClass="com.ramiro.ConversorDivisas"
+
+## 👨‍💻 Autor
+
+**Ramiro Dome**  
+Estudiante de Licenciatura en Sistemas | Desarrollador Java Spring Boot
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ramiro-dome)
+- 💻 [GitHub](https://github.com/RamiroDome1)
+- 📧 domeramiro@gmail.com
+
+---
+
+⭐ ¡Si te gustó este proyecto, deja una estrella en el repositorio!
